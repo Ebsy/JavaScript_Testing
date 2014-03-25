@@ -8,5 +8,4 @@ function createPerson(name, gender){
 }
 
 console.log(createPerson("Fred", "Male"));
-var inputname = stdio.resume();
 console.log("It's alive!");
